@@ -1,0 +1,9 @@
+{
+  "name": "react-typescript-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "React + TypeScript + Webpack Boilerplate",
+  "main": "index.js",
+  "repository": "https://github.com/LeeKyuHyuk/react-typescript-webpack-boilerplate.git",
+  "author": "KyuHyuk Lee (lee@kyuhyuk.kr)",
+  "license": "MIT"
+}
