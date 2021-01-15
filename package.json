@@ -7,7 +7,7 @@
   "author": "KyuHyuk Lee (lee@kyuhyuk.kr)",
   "license": "MIT",
   "scripts": {
-    "start": "NODE_ENV=development webpack-dev-server --progress",
+    "start": "NODE_ENV=development webpack serve --progress",
     "build": "NODE_ENV=production webpack --progress"
   },
   "dependencies": {
